@@ -32,10 +32,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=9-nit&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9-nit&theme=radical" width="48%"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9-nit&layout=compact&theme=radical" width="48%"/>
 </p>
 
 ---
