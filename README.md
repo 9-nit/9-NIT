@@ -11,8 +11,7 @@
 
 - 🌱 Currently Learning: `AI`, `Cybersecurity`, `Ethical Hacking`
 - 🛠️ Building Projects: `AI Assistant`, `Keylogger Lab`, `Real-world Bug Finder`
-- 📫 Reach Me: `your.email@example.com`
-- 🌐 Portfolio: [your-portfolio-link](https://yourportfolio.com)
+- 🌐 Portfolio: [9NIT](https://9nit.netlify.app/)
 - 🧠 Fun Fact: I automate boring stuff and secure systems from the inside out.
 
 ---
